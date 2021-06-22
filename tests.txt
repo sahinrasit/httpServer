@@ -1,0 +1,10 @@
+startupDelay
+totalReBufTime
+reBufferNum
+for (i=0;i<5;i++){console.log(bwList)}
+for (i=0;i<299;i++){console.log(statistics[i].replevel)} 
+for (i=0;i<299;i++){console.log(statistics[i].throughput)}
+for (i=0;i<299;i++){console.log(statistics[i].size)}
+for (i=0;i<299;i++){console.log(statistics[i].t2)}
+
+
